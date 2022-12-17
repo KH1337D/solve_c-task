@@ -1,0 +1,15 @@
+C:\Users\SHIKO\program\obj\Debug\net7.0\program.csproj.AssemblyReference.cache
+C:\Users\SHIKO\program\obj\Debug\net7.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIKO\program\obj\Debug\net7.0\program.AssemblyInfoInputs.cache
+C:\Users\SHIKO\program\obj\Debug\net7.0\program.AssemblyInfo.cs
+C:\Users\SHIKO\program\obj\Debug\net7.0\program.csproj.CoreCompileInputs.cache
+C:\Users\SHIKO\program\bin\Debug\net7.0\program.exe
+C:\Users\SHIKO\program\bin\Debug\net7.0\program.deps.json
+C:\Users\SHIKO\program\bin\Debug\net7.0\program.runtimeconfig.json
+C:\Users\SHIKO\program\bin\Debug\net7.0\program.dll
+C:\Users\SHIKO\program\bin\Debug\net7.0\program.pdb
+C:\Users\SHIKO\program\obj\Debug\net7.0\program.dll
+C:\Users\SHIKO\program\obj\Debug\net7.0\refint\program.dll
+C:\Users\SHIKO\program\obj\Debug\net7.0\program.pdb
+C:\Users\SHIKO\program\obj\Debug\net7.0\program.genruntimeconfig.cache
+C:\Users\SHIKO\program\obj\Debug\net7.0\ref\program.dll
